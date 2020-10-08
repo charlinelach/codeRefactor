@@ -15,7 +15,7 @@ Repository: https://github.com/charlinelach/codeRefactor
 To utilize this website/application, end users may access it via [deploy link](https://charlinelach.github.io/codeRefactor/). From this website, it performed the same effect as the original HTML and CSS.
 <br>
 
-![Screenshot](./Images/screenshot.jpg)
+![Screenshot](/Images/screenshot.jpg)
 
 ## Installation Instructions
 N/A
