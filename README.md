@@ -17,7 +17,6 @@ To utilize this website/application, end users may access it via [deploy link](h
 
 ![Screenshot](./Images/screenshot.jpg)
 
-
 ## Installation Instructions
 N/A
 
