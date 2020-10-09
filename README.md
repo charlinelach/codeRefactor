@@ -9,6 +9,9 @@ Deployed at: https://charlinelach.github.io/codeRefactor/
 <br>
 Repository: https://github.com/charlinelach/codeRefactor
 
+**Technologies**
+HTML, CSS
+
 # Development
 
 ## Usage Instructions
